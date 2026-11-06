@@ -62,7 +62,7 @@ Durante a fase de diagnóstico operacional e financeiro, identificaram-se as seg
 │   └── diagrama_ishikawa_6m.png        <-- Diagrama de Causa-Raiz (Espinha de Peixe 6M)
 └── 📁 docs/
     ├── politica_ia_responsavel.md      <-- Guia de Governança, LGPD e Comitê de IA
-    └── Challenge_Taranis_Black_Rota_4_final.pdf  <-- Relatório Executivo Final
+    └── challenge_taranis_black_rota_4_final.pdf  <-- Relatório Executivo Final
 ```
 
 ---
