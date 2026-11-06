@@ -98,13 +98,13 @@ Desenvolvimento de script em Python para validação e higienização da Planilh
 
 ## 🛠️ Tecnologias & Ferramentas Utilizadas
 
-| Categoria | Tecnologias / Ferramentas |
-| :--- | :--- |
-| **Modelos de IA Generativa & Preditiva** | Claude (Sonnet) / Anthropic |
-| **Desenvolvimento & Scripts** | Python 3.12 (Pandas, NumPy, Plotly), HTML5, Tailwind CSS, JavaScript (Chart.js) |
-| **Engenharia de Prompts** | JSON Schemas, System Prompts Estruturados, Few-Shot Prompting |
-| **Metodologia & Gestão** | Lean Six Sigma (SIPOC, Ishikawa 6M), DRE Financeira, AI Canvas |
-| **Hospedagem & Controle de Versão** | Git, GitHub, GitHub Pages |
+| Categoria                   | Ferramenta / Metodologia        | Aplicação Prática no Projeto                                                                         |
+| --------------------------- | ------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Inteligência Artificial** | **Claude (Sonnet)**             | Geração de diagnóstico executivo, análise preditiva da DRE e criação do Dashboard (*Live Artifact*). |
+| **Engenharia de Prompts**   | **Prompts Estruturados (JSON)** | Extração automática de PDFs, regras de alçadas de crédito e prompts de auditoria financeira.         |
+| **Tratamento de Dados**     | **Python (Pandas)**             | Script de higienização de datas ISO, remoção de caracteres monetários (`R$`) e validação de nulos.   |
+| **Metodologias de Gestão**  | **Lean Six Sigma &amp; DRE**        | Mapeamento SIPOC, Causa-Raiz (Ishikawa 6M), Matriz de IA Canvas e Gestão Orçamentária.               |
+| **Plataforma &amp; Publicação** | **Git &amp; GitHub / GitHub Pages** | Controle de versão, organização da documentação e hospedagem pública do Dashboard.                   |
 
 ---
 
