@@ -27,7 +27,7 @@ Durante a fase de diagnóstico operacional e financeiro, identificaram-se as seg
 
 ---
 
-## 🎯 Objetivos Estratégicos (Metas 2026)
+## 🎯 Objetivos Estratégicos
 - **Redução do Tempo de Ciclo Operacional:** De 5,2 dias úteis para **menos de 24 horas úteis**.
 - **Eficiência Financeira:** Economia estimada de **~120 horas/mês** da equipe de controladoria e finanças.
 - **Contenção de Anomalias Orçamentárias:** Combate ao estouro de fretes (+18,4% no 2º semestre) e mitigação da Provisão para Devedores Duvidosos / Inadimplência B2B (**R$ 1,42M** acumulado em PDD).
