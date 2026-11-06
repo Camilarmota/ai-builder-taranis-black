@@ -56,10 +56,7 @@ Durante a fase de diagnóstico operacional e financeiro, identificaram-se as seg
 ├── 📁 dashboard/
 │   └── index.html                      <-- Dashboard Interativo (Live Artifact no Claude)
 ├── 📁 prompts/
-│   ├── 01_ocr_extracao_pdf.md          <-- Prompt de triagem de propostas B2B em JSON
-│   ├── 02_motor_credito_alcadas.md     <-- Prompt preditivo de risco de crédito (Human-in-the-Loop)
-│   ├── 03_limpeza_dados_python.md      <-- Script Python de tratamento e validação de integridade
-│   └── 04_analise_anomalias_dre.md     <-- Prompt de análise de desvios e projeção T1-2027
+│   ├── prompts.md                      <-- Prompts de limpeza e criação de dashboard usando Live Artifact
 ├── 📁 diagrams/
 │   ├── matriz_sipoc_as_is.png          <-- Diagrama visual da Matriz SIPOC Lean
 │   └── diagrama_ishikawa_6m.png        <-- Diagrama de Causa-Raiz (Espinha de Peixe 6M)
