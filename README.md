@@ -51,7 +51,7 @@ Durante a fase de diagnóstico operacional e financeiro, identificaram-se as seg
 ## 📂 Estrutura do Repositório
 
 ```text
-📁 taranis-black-ai-transformation/
+📁 ai-builder-taranis-black/
 ├── 📄 README.md                        <-- Documentação principal do projeto
 ├── 📁 dashboard/
 │   └── index.html                      <-- Dashboard Interativo (Live Artifact no Claude)
