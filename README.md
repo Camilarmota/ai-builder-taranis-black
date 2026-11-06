@@ -10,9 +10,24 @@
 
 A **Taranis Black** é uma empresa consolidada no segmento de vestuário e equipamentos táticos, apresentando um faturamento anual de **R$ 48 milhões** e um quadro de **280 colaboradores**. 
 
-A esteira de vendas B2B corporativa — responsável por **70% do faturamento total (R$ 33,6M/ano)** — apresentava um gargalo operacional crítico: um tempo de ciclo médio de **5,2 dias úteis** entre o recebimento da proposta comercial em PDF e a efetiva liberação física no Centro de Distribuição (CD) de Joinville/SC. Esse atraso decorria de processos 100% manuais de triagem, consultas ao birô de crédito (Serasa), digitação no ERP legado e aprovações formais de alçada retidas via e-mail.
+A esteira de vendas B2B corporativa é responsável por **70% do faturamento total (R$ 33,6M/ano)**. No entanto, a operação enfrentava sérios gargalos operacionais e financeiros decorrentes de processos legados e manuais.
 
-### 🎯 Objetivos Estratégicos (Metas 2026)
+---
+
+## 💔 Dores do Negócio (Pain Points Diagnosticados)
+
+Durante a fase de diagnóstico operacional e financeiro, identificaram-se as seguintes dores críticas na operação da Taranis Black:
+
+- **Gargalo no Tempo de Ciclo B2B (SLA de 5,2 dias úteis):** Da emissão da proposta comercial em PDF ao despacho físico no Centro de Distribuição (CD) de Joinville/SC, o processo consumia 5,2 dias úteis, prejudicando a experiência do cliente e o fluxo de caixa.
+- **Sobrecarga de Trabalho Manual (~120h/mês em rotinas repetitivas):** Assistentes financeiros gastavam cerca de 40 minutos por pedido na triagem de propostas em PDF, digitação manual no ERP legado e consultas individuais ao birô de crédito (Serasa).
+- **Estouro de Custos Logísticos e Fretes (+18,4% no 2º Semestre):** Divergências na checagem de modalidades CIF/FOB e erros na digitação de fretes geraram um aumento expressivo e não previsto nas despesas logísticas.
+- **Acúmulo de PDD e Inadimplência B2B (R$ 1,42 milhão):** Falta de um motor preditivo de regras de crédito e consultas manuais inconsistentes resultaram no acúmulo de R$ 1,42M em Provisão para Devedores Duvidosos.
+- **Gargalo em Aprovações de Alçada (Retenção por E-mail):** Processo manual de solicitação de aprovação de crédito retinha ordens por 24h a 48h na caixa de e-mail dos gestores.
+- **Turnover Elevado na Operação (22,5% ao ano):** Insatisfação e fadiga da equipe geradas pelo acúmulo de tarefas operacionais repetitivas e falta de inteligência na gestão de pessoas.
+
+---
+
+## 🎯 Objetivos Estratégicos (Metas 2026)
 - **Redução do Tempo de Ciclo Operacional:** De 5,2 dias úteis para **menos de 24 horas úteis**.
 - **Eficiência Financeira:** Economia estimada de **~120 horas/mês** da equipe de controladoria e finanças.
 - **Contenção de Anomalias Orçamentárias:** Combate ao estouro de fretes (+18,4% no 2º semestre) e mitigação da Provisão para Devedores Duvidosos / Inadimplência B2B (**R$ 1,42M** acumulado em PDD).
