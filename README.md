@@ -52,17 +52,17 @@ Durante a fase de diagnóstico operacional e financeiro, identificaram-se as seg
 
 ```text
 📁 ai-builder-taranis-black/
-├── 📄 README.md                        <-- Documentação principal do projeto
 ├── 📁 dashboard/
-│   └── taranis_black_dashboard.html    <-- Dashboard Interativo (Live Artifact no Claude)
-├── 📁 prompts/
-│   ├── prompts.md                      <-- Prompts de limpeza e criação de dashboard usando Live Artifact
+│   └── taranis_black_dashboard.html                <-- Dashboard Interativo (Live Artifact no Claude)
 ├── 📁 diagrams/
-│   ├── matriz_sipoc_as_is.png          <-- Diagrama visual da Matriz SIPOC Lean
-│   └── diagrama_ishikawa_6m.png        <-- Diagrama de Causa-Raiz (Espinha de Peixe 6M)
-└── 📁 docs/
-    ├── politica_ia_responsavel.md      <-- Guia de Governança, LGPD e Comitê de IA
-    └── challenge_taranis_black_rota_4_final.pdf  <-- Relatório Executivo Final
+│   ├── matriz_sipoc_as_is.png                      <-- Diagrama visual da Matriz SIPOC Lean
+│   └── diagrama_ishikawa_6m.png                    <-- Diagrama de Causa-Raiz (Espinha de Peixe 6M)
+├── 📁 docs/
+│   ├── politica_ia_responsavel.md                  <-- Guia de Governança, LGPD e Comitê de IA
+│   └── challenge_taranis_black_rota_4_final.pdf    <-- Relatório Executivo Final
+├── 📁 prompts/
+│   └── prompts.md                                  <-- Prompts de limpeza e criação de dashboard usando Live Artifact
+    └── 📄 README.md                                <-- Documentação principal do projeto
 ```
 
 ---
