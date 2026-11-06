@@ -54,7 +54,7 @@ Durante a fase de diagnóstico operacional e financeiro, identificaram-se as seg
 📁 ai-builder-taranis-black/
 ├── 📄 README.md                        <-- Documentação principal do projeto
 ├── 📁 dashboard/
-│   └── taranis_black_dashboard.html   <-- Dashboard Interativo (Live Artifact no Claude)
+│   └── taranis_black_dashboard.html    <-- Dashboard Interativo (Live Artifact no Claude)
 ├── 📁 prompts/
 │   ├── prompts.md                      <-- Prompts de limpeza e criação de dashboard usando Live Artifact
 ├── 📁 diagrams/
